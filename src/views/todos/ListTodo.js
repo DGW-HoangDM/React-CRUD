@@ -76,7 +76,7 @@ const ListTodo = () => {
   return (
     <>
       <p>
-        Convert <code>Class component to Function component</code> TODO app
+        <code>CRUD app react</code>
       </p>
       <div className="content">
         <AddTodo
